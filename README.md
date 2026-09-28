@@ -57,5 +57,5 @@ Atuar no desenvolvimento, projeto e homologação de sistemas embarcados para o 
 ### 📬 Conecte-se Comigo
 
 <!-- Adapte ou adicione os links para suas redes sociais abaixo -->
-- **LinkedIn:** [linkedin.com/in/jhonny-petrick](https://linkedin.com)
-- **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- **LinkedIn:** (linkedin.com/in/jhonny-petrick)
+- **E-mail:** [jhonnypmsilva@gmail.com)
