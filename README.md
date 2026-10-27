@@ -1,61 +1,62 @@
-# Jhonny Petrick
+<div align="center">
 
-**Engenheiro de Sistemas Embarcados Aviônicos**
+# 🛸 Jhonny Petrick Magalhães
+
+**Engenheiro de Sistemas Embarcados Aviônicos | Estudante de Engenharia da Computação**
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonny-petrick)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnypmsilva@gmail.com)
+[![Location Badge](https://img.shields.io/badge/Localização-Curitiba%20--%20PR-00A859?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+---
+
+> *"Projetando e desenvolvendo o futuro da aviação e dos sistemas aeroespaciais embarcados."*
+
+</div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Trabalhar com sistemas embarcados aviônicos sempre foi o meu sonho, até mesmo quando eu não sabia que esse interesse resultaria nesta profissão. Sempre almejei projetar e desenvolver sistemas embarcados para o ramo da aviação e derivados, e venho me aperfeiçoando cada vez mais para atingir esse objetivo. 
+Desde muito jovem, a curiosidade em entender e consertar dispositivos eletrônicos de forma autodidata ditou a minha trajetória. O que começou com a busca por soluções de hardware na adolescência evoluiu para uma formação técnica em **Eletrônica**, uma passagem por **Análise e Desenvolvimento de Sistemas** e, finalmente, para a consolidação na **Engenharia da Computação**.
 
-Quando adolescente, tentava consertar minhas próprias coisas sozinho, assistindo a vídeos e explorando soluções de forma autodidata. Fiz o curso técnico em eletrônica no ensino médio, iniciei a graduação em Análise e Desenvolvimento de Sistemas enquanto buscava meu foco principal e, após pesquisar e me aprofundar na área, encontrei na **Engenharia da Computação** o caminho ideal a trilhar.
+Atualmente na graduação, busco unir a paixão pela aviação à engenharia de precisão. Tenho foco na arquitetura de microcontroladores, design de PCBs e liderança de projetos tecnológicos em equipe.
 
-Atualmente no 2º semestre da graduação, tenho me destacado em liderança e gestão de projetos em grupo. Tenho sólida base em programação C/C++ e estou projetando do zero uma placa eletrônica com engenharia embarcada baseada em microcontroladores (linha STM32) para um drone.
-
----
-
-### 🎯 Objetivo Profissional
-
-Atuar no desenvolvimento, projeto e homologação de sistemas embarcados para o setor aeroespacial e de aviação, aprofundando conhecimentos em tecnologias embarcadas, normas regulamentadoras e requisitos de segurança para a aprovação de projetos reais (comerciais e domésticos).
+* 🎓 **Formação Atual:** Engenharia da Computação
+* 📜 **Formação Técnica:** Técnico em Eletrônica
+* 🎯 **Foco Principal:** Aviônica, Sistemas Embarcados e VANTs/Drones
+* 🌐 **Idiomas:** Português (Nativo) | Inglês (Avançado) | Francês (Básico)
 
 ---
 
-### 🛠️ Competências & Habilidades
+### 🚁 Projeto em Destaque
 
-#### **Hard Skills (Técnicas)**
-- **Linguagens de Programação:** C, C++
-- **Sistemas Embarcados & Microcontroladores:** Família STM32, Arquitetura de Microcontroladores
-- **Eletrônica & Hardware:** Design e projeto de PCB (Placas de Circuito Impresso), manutenção eletrônica e montagem de circuitos
-- **Sistemas Aéreos:** Desenvolvimento de Drones e Veículos Aéreos Não Tripulados (VANTs)
-
-#### **Soft Skills (Comportamentais)**
-- Liderança de Equipes
-- Gestão de Projetos
-- Proatividade
-- Aprendizado Autodidata & Resolução de Problemas
+#### **Placa de Controle de Voo Customizada (STM32)**
+Projeto do zero de uma placa de circuito impresso (PCB) com arquitetura embarcada para veículos aéreos não tripulados (VANTs).
+- **Processamento:** Microcontroladores da família **STM32** (ARM Cortex-M).
+- **Desenvolvimento:** Firmware em **C/C++**, projeto esquemático, roteamento de PCB e integração de sensores operacionais.
 
 ---
 
-### 📈 Áreas de Interesse & Foco de Estudo
+### 🛠️ Stacks & Tecnologias
 
-- 🛰️ **Sistemas Embarcados e Microcontroladores**
-- ✈️ **Engenharia Aeroespacial e Aviônica**
-- 🛸 **Desenvolvimento de Drones e VANTs**
-- 🔌 **Eletrônica e Design de PCB**
-- 📜 **Normas Regulamentadoras, Legislação Aeroespacial e Certificação/Homologação**
+#### **Hardware & Firmware**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-41B883?style=for-the-badge&logo=circuitverse&logoColor=white)
+
+#### **Competências Técnicas & Domínios**
+
+| Categoria | Tecnologias & Conceitos |
+| :--- | :--- |
+| **Linguagens** | C, C++ |
+| **Microcontroladores** | Família STM32 (ARM Cortex), Arquiteturas Embarcadas |
+| **Engenharia de Hardware** | Design de PCB, Análise e Montagem de Circuitos, Manutenção Eletrônica |
+| **Aeroespacial & VANTs** | Sistemas de Controle de Voo, Integração de Sensores, Aviônica |
+| **Gestão & Processos** | Liderança de Equipes, Gestão de Projetos, Normas e Homologação |
 
 ---
 
-### 🌐 Idiomas
-
-- 🇵🇹 **Português:** Nativo
-- 🇬🇧 **Inglês:** Avançado
-- 🇫🇷 **Francês:** Básico
-
----
-
-### 📬 Conecte-se Comigo
-
-<!-- Adapte ou adicione os links para suas redes sociais abaixo -->
-- **LinkedIn:** (linkedin.com/in/jhonny-petrick)
-- **E-mail:** [jhonnypmsilva@gmail.com)
+### 🎯 Áreas de Interesse & Foco Acadêmico
